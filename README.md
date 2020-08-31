@@ -83,12 +83,12 @@ These Beats allow us to collect the following information from each machine:
 
 -Filebeat:
 
-	-Collects log data and ships it to a designated destination of your choosing. This allows a clear and concise overview of what is occuring in your system and 
+-Collects log data and ships it to a designated destination of your choosing. This allows a clear and concise overview of what is occuring in your system and 
 	 allows ease of access to that data in a centralized location.
 	 
 -Metricbeat:
 
-	-Measures and collects metrics from the system and the services running on the server. This allows you to monitor exactly how each service is
+-Measures and collects metrics from the system and the services running on the server. This allows you to monitor exactly how each service is
      running and the impact it may have on your server as a whole.
 
 
